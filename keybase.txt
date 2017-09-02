@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/mindbound
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://mindbound.github.io
+  * I am mindbound (https://keybase.io/mindbound) on keybase.
+  * I have a public key ASAGgkJ9BZF5yGtvwPVOMw6VpCW3vL3JeE0t-a709J3cZgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101b5b9f2d53887f97c7f01a96b4d00ca3d612d0959d8cf6b5b5d58d74002bf44210a",
+      "host": "keybase.io",
+      "kid": "01200682427d059179c86b6fc0f54e330e95a425b7bcbdc9784d2df9aef4f49ddc660a",
+      "uid": "1a6b98899d8f3f082512ced4a14a1d00",
+      "username": "mindbound"
+    },
+    "merkle_root": {
+      "ctime": 1504378236,
+      "hash": "e9ff27d879aad8f5ba8d4eacbad5e4a043642b77d2230ca099ed4ee63389750e6ad1c5c8e9c199f17296ba80c1e86668e81f291dd1806e391da286f3d73f1e4d",
+      "hash_meta": "4179e64d5e85d931c568573484571746d3870adac61bb18e17ab51bdcfc26084",
+      "seqno": 1363684
+    },
+    "service": {
+      "hostname": "mindbound.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.28"
+  },
+  "ctime": 1504378252,
+  "expire_in": 504576000,
+  "prev": "9f77f2f05206eea3714b19e9fb8a16e23fcab3be84a9a6e68da125545b0667da",
+  "seqno": 83,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgBoJCfQWRechrb8D1TjMOlaQlt7y9yXhNLfmu9PSd3GYKp3BheWxvYWTFA017ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxYjViOWYyZDUzODg3Zjk3YzdmMDFhOTZiNGQwMGNhM2Q2MTJkMDk1OWQ4Y2Y2YjViNWQ1OGQ3NDAwMmJmNDQyMTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMDY4MjQyN2QwNTkxNzljODZiNmZjMGY1NGUzMzBlOTVhNDI1YjdiY2JkYzk3ODRkMmRmOWFlZjRmNDlkZGM2NjBhIiwidWlkIjoiMWE2Yjk4ODk5ZDhmM2YwODI1MTJjZWQ0YTE0YTFkMDAiLCJ1c2VybmFtZSI6Im1pbmRib3VuZCJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUwNDM3ODIzNiwiaGFzaCI6ImU5ZmYyN2Q4NzlhYWQ4ZjViYThkNGVhY2JhZDVlNGEwNDM2NDJiNzdkMjIzMGNhMDk5ZWQ0ZWU2MzM4OTc1MGU2YWQxYzVjOGU5YzE5OWYxNzI5NmJhODBjMWU4NjY2OGU4MWYyOTFkZDE4MDZlMzkxZGEyODZmM2Q3M2YxZTRkIiwiaGFzaF9tZXRhIjoiNDE3OWU2NGQ1ZTg1ZDkzMWM1Njg1NzM0ODQ1NzE3NDZkMzg3MGFkYWM2MWJiMThlMTdhYjUxYmRjZmMyNjA4NCIsInNlcW5vIjoxMzYzNjg0fSwic2VydmljZSI6eyJob3N0bmFtZSI6Im1pbmRib3VuZC5naXRodWIuaW8iLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4yOCJ9LCJjdGltZSI6MTUwNDM3ODI1MiwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiI5Zjc3ZjJmMDUyMDZlZWEzNzE0YjE5ZTlmYjhhMTZlMjNmY2FiM2JlODRhOWE2ZTY4ZGExMjU1NDViMDY2N2RhIiwic2Vxbm8iOjgzLCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQCuZcK7OZajzfZHZeQ8xFPXJeAYgyMuxi6UMGeHHzXuxYCD+/RQyl002ByZqfPyHi3cgANG4z72N30/Qon4NzQyoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCAT5h/eGWhJe2MCBOdUO7rNzoMAwBrYAQvJ6jd5t2kWoKN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mindbound
+
+==================================================================
